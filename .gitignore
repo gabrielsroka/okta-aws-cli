@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# jar folder
+jar
+META-INF
+.idea
+models
+out
